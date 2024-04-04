@@ -1,0 +1,31 @@
+body{
+    background-image: url('20230212_210205_0000.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1{
+    font-family:'Times New Roman';
+    color:blueviolet;
+}
+
+h2{
+    font-family:'Times New Roman';
+    letter-spacing: 1px;
+            text-transform: uppercase;
+            text-align: center;
+            border: 2px solid purple;
+            background: purple;
+            color:plum;
+            box-shadow: 1px 1px 2px peachpuff;
+            border-radius: 20px;
+            padding: 3px 10px;
+            cursor: pointer;
+}
+
+.picture img{
+    border-radius: 20px;
+    width:200px;
+    height:200px;
+}
